@@ -18,17 +18,11 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Clicker.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="CookieNotation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Clicker.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="CookieNotation.h">
       <Filter>Header Files</Filter>
     </ClInclude>

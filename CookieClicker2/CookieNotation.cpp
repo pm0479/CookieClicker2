@@ -21,14 +21,6 @@ CookieNotation::CookieNotation(double coef, int exp, bool needsToBeNormal)
     }
 }
 
-// Copy Constructor
-CookieNotation::CookieNotation(const CookieNotation& rhs)
-    : coefficient(rhs.coefficient),
-      exponent(rhs.exponent)
-{
-    // Left blank intentionally...
-}
-
 double CookieNotation::getCoefficient() const
 {
     return coefficient;

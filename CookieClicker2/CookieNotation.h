@@ -33,9 +33,6 @@ public:
 	// Copy Assignment Operator: "="
 	CookieNotation& operator = (const CookieNotation& rhs);
 
-	// Copy Constructor
-	CookieNotation(const CookieNotation& rhs);
-
 private:
 	double coefficient;
 	int exponent;
