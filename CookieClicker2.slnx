@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CookieClicker2/CookieClicker2.vcxproj" Id="878c43a2-c863-48c6-99a8-4e5c629ed8d8" />
+</Solution>
